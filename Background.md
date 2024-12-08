@@ -1,24 +1,44 @@
----
 permalink: /Background/
 ---
-**Education Background**
 
-01/2014-06/2018:  Ph.D. in Electrical and Electronic Engineering, The University of Hong Kong (**HKU**)<br />	
-	 
-04/2017-10/2017:  Honorary Associate (Visiting Ph.D.) in Electrical and Computer Engineering,  University of Wisconsin-Madison (**UW-Madison**)<br /> 
-      
-09/2012-09/2013:  M.S.  in Electronic Engineering,  City University of Hong Kong (**CityU**)<br />  
-                  	                                                   
-09/2005-07/2009:  B.Eng. in Electromagnetic Field and Microwave Technology,  University of Electronic Science and Technology of China (**UESTC**)<br />
+# Dr. XIAO, Bing
 
-***
-**Employment**  
+**Contact Information**
+- **Email**: xiaobing@eee.hku.hk
+- **Phone**: (852) 6932 2360
+- **Address**: Room 15-236, AC2, CityU, 83 Tat Chee Avenue, Hong Kong
 
-01/2019-Now: Shenzhen University (**SZU**),  Assistant Professor<br /> 
+**Research Direction**
+Small antenna, Smart glasses antenna, Smartwatch antenna, Characteristic mode analysis, Multi-mode antenna, Internet of Things
 
-02/2018-01/2019: Hong Kong Applied Science and Technology Research Institute (**ASTRI**),  Senior System Design Engineer<br /> 
+## Education
 
-07/2010-08/2012: MediaTek.Inc (**MTK**),  Senior RF Engineer
+- **Ph.D., Electronic Engineering**
+  - The University of Hong Kong, Hong Kong, China
+  - September 2016 – December 2021
+
+- **M.S., Radio Physics**
+  - University of Electronic Science and Technology of China, Chengdu, China
+  - September 2009 – June 2012
+
+- **B.S., Applied Physics**
+  - Anhui University, Hefei, China
+  - September 2005 – July 2009
+
+## Academic Career
+
+- **Assistant Research Fellow**
+  - Information and Communication Technology Centre, City University of Hong Kong Shenzhen Research Institute, Shenzhen, China
+  - October 2023 – Present
+
+- **Postdoctoral Fellow**
+  - State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong Kong (CityU), Hong Kong
+  - October 2024 – Present
+
+- **Postdoc**
+  - State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong Kong (CityU), Hong Kong
+  - October 2021 – September 2024
+
 
 
 
