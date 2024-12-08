@@ -2,15 +2,14 @@
 permalink: /Background/
 ---
 
-# Dr.
+# Dr. XIAO, Bing
 
 **Contact Information**
-- **Email**: xiaobing@eee.hku.hk
-- **Phone**: (852) 6932 2360
-- **Address**: Room 15-236, AC2, CityU, 83 Tat Chee Avenue, Hong Kong
+- **Email**: xiaobing[at]eee.hku.hk
+- **Address**: Room 15-236 (State Key Laboratory), 15/F, Lau Ming Wai Academic Building, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong SAR
 
 **Research Direction**
-Small antenna, Smart glasses antenna, Smartwatch antenna, Characteristic mode analysis, Multi-mode antenna, Internet of Things
+Broadband antenna, Small antenna, Smart glasses antenna, Smartwatch antenna, Characteristic mode analysis, Multi-mode antenna, Internet of Things
 
 ## Education
 
