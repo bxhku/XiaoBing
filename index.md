@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xiao Bing<br />
+title: XIAO, Bing<br />
 permalink: /
 ---
 *B.S. Anhui U, M.S. UESTC, Ph.D. HKU*<br />
