@@ -6,6 +6,8 @@ permalink: /Research/
 Feeding mechanism is proposed that can excite multi-order dual-degenerated loop modes, which almost doubles the excited modes of a common loop. Thus, it can easily cover the whole Sub-6 GHz band as a small antenna. 14 modes are excited simultaneously. [Researchgate link](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
  
 
+<img src="Fig_research/test1.tif" width="200px" align="middle" alt="图片描述">
+
 
 
 2.	For Smartwatch/Smartphone: Unmodified present display screen module designed as antennas of mobile smart devices 
