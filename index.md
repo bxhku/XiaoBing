@@ -6,7 +6,8 @@ permalink: /
 *B.Eng. Anhui U, M.S. UESTC, Ph.D. HKU*<br />
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
-**Postdocal Fellow**<br />   
+**Postdocal Fellow**<br /> 
+
 **City University of Hong Kong**<br />  
 
 **Email**: xiaobing[at]eee.hku.hk<br /> 
