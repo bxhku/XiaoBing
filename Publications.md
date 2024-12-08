@@ -14,7 +14,6 @@ permalink: /Publications/
 
 5.	**B. Xiao**, H. Wong, D. Wu, and K. L. Yeung, "Metal-Frame Antenna for Big-Screen Smartphones Using Characteristic Mode Analysis,"  IEEE Access, vol. 7, pp. 122224–122231, 2019, doi: 10.1109/ACCESS.2019.2935474.
 
-
 6.	**B. Xiao**, H. Wong, and K. L. Yeung, "Penta-band Dual-fed Smart Glasses IoT Antenna," in 2020 14th European Conference on Antennas and Propagation (EuCAP), Mar. 2020, pp. 1–4. doi: 10.23919/EuCAP48036.2020.9136030.
 
 7.	**B. Xiao** and H. Wong, “Whole-Sub-6 GHz Loop Antenna by Multi-Order Dual-Degenerated Modes”. 2024. Researchgate Preprint, doi: 10.13140/RG.2.2.23532.78727.
@@ -40,7 +39,6 @@ permalink: /Publications/
 17.	M. Li, D. Wu, **B. Xiao**, K. L. Yeung, and L. Jiang, "A Novel Calculation Method to Design Parasitic Decoupling Technique for Two Antennas," IEEE Access, vol. 8, pp. 116041–116051, 2020.
 
 18.	D. Wu, X. Hua, S. W. Cheung, B. Wang, M. Li, and **B. Xiao**, "A compact slot MIMO antenna for smartphones with metal housing," Journal of Electromagnetic Waves and Applications, vol. 32, no. 2, pp. 204–214, 2018.
-
 
 
 
