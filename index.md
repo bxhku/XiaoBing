@@ -1,19 +1,17 @@
 ---
 layout: page
-title: Di Wu, Denny (吴迪)<br />
+title: Xiao Bing<br />
 permalink: /
 ---
-*B.Eng. UESTC, M.S. CityU(HK), Ph.D. HKU*<br />
+*B.Eng. Anhui U, M.S. UESTC, Ph.D. HKU*<br />
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
-**Assistant Professor**<br />   
-**Shenzhen University**<br />  
+**Postdocal Fellow**<br />   
+**City University of Hong Kong**<br />  
 
-**Tel**: +86-13823579832<br /> 
-
-**Email**: bxuestc@gmail.com<br /> 
+**Email**: xiaobing[at]eee.hku.hk<br /> 
    
-**Office**: Room 1013, 10th Floor, Ziteng Building, Canghai Campus, Shenzhen University, Shenzhen, 518060, China<br />     
+**Office**: Room 15-236 (State Key Laboratory), 15/F, Lau Ming Wai Academic Building, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong SAR<br />     
 <br /> 
 **Biography:**
 <div style="text-align:justify;">
