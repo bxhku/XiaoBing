@@ -4,7 +4,7 @@ title: XIAO, Bing<br />
 permalink: /
 ---
 *B.S. Anhui U, M.S. UESTC, Ph.D. HKU*<br />
-{% include image.html url="images/photo.png" caption="" max_width="80px" align="left" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="left" %}
 
 **Postdocal Fellow**<br /> 
 
