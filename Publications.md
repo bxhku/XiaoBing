@@ -2,6 +2,7 @@
 permalink: /Publications/
 ---
 
+
 **Journal and Conference Papers**
 
 1.	**B. Xiao**, H. Wong, M. Li, B. Wang, and K. L. Yeung, "Dipole Antenna with Both Odd and Even Modes Excited and Tuned," IEEE Trans. Antennas Propagat., vol. 70, no. 3, pp. 1643–1652, Mar. 2022, doi: 10.1109/TAP.2021.3111231.
