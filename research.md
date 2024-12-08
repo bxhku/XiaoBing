@@ -1,5 +1,5 @@
 ---
-permalink: /Publications/
+permalink: /Research/
 ---
 
 1.	For UAV/Smartwatch/smart glasses: Whole-Sub-6 GHz Loop Antenna by Multi-Order Dual-Degenerated Modes
