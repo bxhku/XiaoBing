@@ -2,7 +2,9 @@
 permalink: /Background/
 ---
 
-{% include image.html url="images/a/photoo.jpg" caption="" max_width="300px" align="left" %}
+<img src="images/a/photoo.jpg" width="200px" align="right" alt="图片描述">
+
+<br /> 
 
 
 **Contact Information**
