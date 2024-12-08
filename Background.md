@@ -1,7 +1,7 @@
 permalink: /Background/
 ---
 
-# Dr. XIAO, Bing
+# Dr. 
 
 **Contact Information**
 - **Email**: xiaobing@eee.hku.hk
