@@ -5,7 +5,7 @@ permalink: /
 ---
 *B.S. Anhui U, M.S. UESTC, Ph.D. HKU*<br />
 
-<img src="images/a/photo.jpg" width="220px" align="right" alt="图片描述">
+<img src="images/a/photo.jpg" width="260px" align="right" alt="图片描述">
 
 **Postdocal Fellow**<br /> 
 
