@@ -7,6 +7,10 @@ Feeding mechanism is proposed that can excite multi-order dual-degenerated loop 
  
 
 ![](http://www.baidu.com/img/bdlogo.gif)  
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+![](https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png)
+
+
 
 
 2.	For Smartwatch/Smartphone: Unmodified present display screen module designed as antennas of mobile smart devices 
