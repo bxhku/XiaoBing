@@ -36,6 +36,8 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 
 <center>[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wILYaDRz79Y&ab/hqdefault.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab)</center>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wILYaDRz79Y&ab/hqdefault.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab)
+
 
 <br />
 **V.** 	*For Smart Glasses, Smartwatch Strap*: **Algorithm for fewest arms of any multi-band linear dipole antenna**
