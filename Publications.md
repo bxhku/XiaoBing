@@ -5,35 +5,35 @@ permalink: /Publications/
 
 **Journal and Conference Papers**
 
-1.	**B. Xiao**, H. Wong, M. Li, B. Wang, and K. L. Yeung, "Dipole Antenna with Both Odd and Even Modes Excited and Tuned," IEEE Trans. Antennas Propagat., vol. 70, no. 3, pp. 1643–1652, Mar. 2022, doi: 10.1109/TAP.2021.3111231.
+1.	**B. Xiao**, H. Wong, M. Li, B. Wang, and K. L. Yeung, **"Dipole Antenna with Both Odd and Even Modes Excited and Tuned,"** IEEE Trans. Antennas Propagat., vol. 70, no. 3, pp. 1643–1652, Mar. 2022.
 
-2.	**B. Xiao**, H. Wong, Y. Wei, and K. L. Yeung, IEEE Trans. Antennas Propagat., vol. 70, no. 5, pp. 3144–3152, May 2022, doi: 10.1109/TAP.2021.3138805.
+2.	**B. Xiao**, H. Wong, Y. Wei, and K. L. Yeung, **"Algorithm for Fewest Arms of Multiband Linear Dipole Antenna",** IEEE Trans. Antennas Propagat., vol. 70, no. 5, pp. 3144–3152, May 2022.
 
-3.	**B. Xiao**, H. Wong, D. Wu, and K. L. Yeung, "Design of Small Multi-band Full-screen Smartwatch Antenna for IoT applications,"IEEE Internet Things J., vol. 8, no. 24, pp. 17724–17733, Dec. 2021, doi: 10.1109/JIOT.2021.3082535.
+3.	**B. Xiao**, H. Wong, D. Wu, and K. L. Yeung, **"Design of Small Multi-band Full-screen Smartwatch Antenna for IoT applications,"** IEEE Internet Things J., vol. 8, no. 24, pp. 17724–17733, Dec. 2021.
 
-4.	**B. Xiao**, H. Wong, and K. M. Shum, “Multi-frequency antenna for quasi-isotropic radiator and 6G massive IoT.” arXiv, Dec 18, 2023. doi: 10.48550/arXiv.2401.05383.
+4.	**B. Xiao**, H. Wong, and K. M. Shum, **“Multi-frequency antenna for quasi-isotropic radiator and 6G massive IoT.”** arXiv, Dec 18, 2023. doi: 10.48550/arXiv.2401.05383.
 
-5.	**B. Xiao**, H. Wong, D. Wu, and K. L. Yeung, "Metal-Frame Antenna for Big-Screen Smartphones Using Characteristic Mode Analysis,"  IEEE Access, vol. 7, pp. 122224–122231, 2019, doi: 10.1109/ACCESS.2019.2935474.
+5.	**B. Xiao**, H. Wong, D. Wu, and K. L. Yeung, **"Metal-Frame Antenna for Big-Screen Smartphones Using Characteristic Mode Analysis,"**  IEEE Access, vol. 7, pp. 122224–122231, 2019.
 
-6.	**B. Xiao**, H. Wong, and K. L. Yeung, "Penta-band Dual-fed Smart Glasses IoT Antenna," in 2020 14th European Conference on Antennas and Propagation (EuCAP), Mar. 2020, pp. 1–4. doi: 10.23919/EuCAP48036.2020.9136030.
+6.	**B. Xiao**, H. Wong, and K. L. Yeung, **"Penta-band Dual-fed Smart Glasses IoT Antenna,"** in 2020 14th European Conference on Antennas and Propagation (EuCAP), Mar. 2020, pp. 1–4.
 
-7.	**B. Xiao** and H. Wong, “Whole-Sub-6 GHz Loop Antenna by Multi-Order Dual-Degenerated Modes”. 2024. Researchgate Preprint, doi: 10.13140/RG.2.2.23532.78727.
+7.	**B. Xiao** and H. Wong, **“Whole-Sub-6 GHz Loop Antenna by Multi-Order Dual-Degenerated Modes”,** 2024. Researchgate Preprint, doi: 10.13140/RG.2.2.23532.78727.
 
-8.	M. Li, **B. Xiao** (corresponding authors), C. Zhou, D. Wu, K. L. Yeung, L. Jiang, R. Murch, "Novel CMA Scheme to Design Self-Decoupled MIMO Dipole Pair for Base-Station Applications," in IEEE Transactions on Antennas and Propagation, vol. 70, no. 4, pp. 2480-2489, April 2022, doi: 10.1109/TAP.2021.3118812.
+8.	M. Li, **B. Xiao** (corresponding authors), C. Zhou, D. Wu, K. L. Yeung, L. Jiang, R. Murch, **"Novel CMA Scheme to Design Self-Decoupled MIMO Dipole Pair for Base-Station Applications,"** in IEEE Transactions on Antennas and Propagation, vol. 70, no. 4, pp. 2480-2489, April 2022.
 
-9.	**B. Xiao**, H. Yao, M. Li, J.-S. Hong, and K. L. Yeung, IEEE Access, vol. 7, pp. 143973–143979, 2019, doi: 10.1109/ACCESS.2019.2944462.
+9.	**B. Xiao**, H. Yao, M. Li, J.-S. Hong, and K. L. Yeung, **"Flexible wideband microstrip-slotline-microstrip power divider and its application to antenna array",** IEEE Access, vol. 7, pp. 143973–143979, 2019, 
 
-10.	**B. Xiao**, H. Wong, B. Wang, and K. L. Yeung, "Effect of the screen to metal-frame smartphone antennas," in 2019 International Workshop on Antenna Technology (iWAT), Mar. 2019, pp. 29–32. doi: 10.1109/IWAT.2019.8730640.
+10.	**B. Xiao**, H. Wong, B. Wang, and K. L. Yeung, **"Effect of the screen to metal-frame smartphone antennas,"** in 2019 International Workshop on Antenna Technology (iWAT), Mar. 2019, pp. 29–32. 
 
-11.	**B. Xiao** and H. Wong, "Multi-band Dipole Antenna by Multi-mode Excitation for Massive Connections of IoT," 2022 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC), Cape Town, South Africa, 2022, pp. 001-006, doi: 10.1109/APWC49427.2022.9899984.
+11.	**B. Xiao** and H. Wong, **"Multi-band Dipole Antenna by Multi-mode Excitation for Massive Connections of IoT,"** 2022 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC), Cape Town, South Africa, 2022, pp. 001-006.
 
 12.	**B. Xiao**, L. Zhong, J.-S. Hong, and S.-L. Li, "A Novel Compact Planar Spiral-shaped Antenna," The Applied Computational Electromagnetics Society Journal (ACES), pp. 57–63, 2013.
 
-13.	D. Wu, R.-N. Lian, **B. Xiao**, B. Wang, M. Li, Y. -J. Wu, and K. L. Yeung, "Wideband Monostatic Co-Horizontally Polarized Simultaneous Transmit and Receive Antenna Subsystem with Integrated Beamforming Network" IEEE Transactions on Antennas and Propagation, vol. 70, no. 2, pp. 1505-1510, Feb. 2022, doi: 10.1109/TAP.2021.3111205.
+13.	D. Wu, R.-N. Lian, **B. Xiao**, B. Wang, M. Li, Y. -J. Wu, and K. L. Yeung, "Wideband Monostatic Co-Horizontally Polarized Simultaneous Transmit and Receive Antenna Subsystem with Integrated Beamforming Network" IEEE Transactions on Antennas and Propagation, vol. 70, no. 2, pp. 1505-1510, Feb. 2022.
 
-14.	D. Wu, Y. -X. Sun, R. Lian, **B. Xiao**, M. Li and K. -D. Xu, "Metasurface Antenna With Cocircularly Polarized Radiation Characteristics for Wideband Monostatic Simultaneous Transmit and Receive Applications," in IEEE Transactions on Antennas and Propagation, vol. 71, no. 4, pp. 3304-3313, April 2023, doi: 10.1109/TAP.2023.3243988.
+14.	D. Wu, Y. -X. Sun, R. Lian, **B. Xiao**, M. Li and K. -D. Xu, "Metasurface Antenna With Cocircularly Polarized Radiation Characteristics for Wideband Monostatic Simultaneous Transmit and Receive Applications," in IEEE Transactions on Antennas and Propagation, vol. 71, no. 4, pp. 3304-3313, April 2023.
 
-15.	Y. Bi, Y. Li, H. Wong, **B. Xiao**, L. Ge, and J. Wang, "A Millimeter-Wave Wideband Antenna Module with Switchable Fan-Beam Radiation for Wide Coverage of 5G IoT Applications," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3284848.
+15.	Y. Bi, Y. Li, H. Wong, **B. Xiao**, L. Ge, and J. Wang, "A Millimeter-Wave Wideband Antenna Module with Switchable Fan-Beam Radiation for Wide Coverage of 5G IoT Applications," in IEEE Internet of Things Journal.
 
 16.	B. Wang, H. Wong, **B. Xiao**, and K. L. Yeung, "A Horizontally Polarized Omnidirectional Antenna Array with Side-Lobe Suppression," in 2019 International Workshop on Antenna Technology (iWAT), Mar. 2019, pp. 41–43.
 
