@@ -6,7 +6,7 @@ permalink: /Research/
 Feeding mechanism is proposed that can excite multi-order dual-degenerated loop modes, which almost doubles the excited modes of a common loop. Thus, it can easily cover the whole Sub-6 GHz band as a small antenna. 14 modes are excited simultaneously. [Researchgate link](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
  
 
-
+![](http://www.baidu.com/img/bdlogo.gif)  
 
 
 2.	For Smartwatch/Smartphone: Unmodified present display screen module designed as antennas of mobile smart devices 
@@ -33,7 +33,7 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 5.	For Smart Glasses, Smartwatch Strap: Algorithm for fewest arms of any multi-band linear dipole antenna 
 An algorithm based on sharing arms to calculate the fewest arms required by any linear multi-band dipole antenna is proposed. The exemplified penta-band dipole antenna can cover 5 narrow discrete bands with only 2.5 pairs of arms. 50% of arms are reduced compared to traditional methods. Antennas designed by this algorithm can achieve multi-band radiation while conforming to ultra-narrow surfaces, such as smart glasses and smartwatch straps. [Researchgate link](https://www.researchgate.net/publication/357615453_Algorithm_for_Fewest_Arms_of_Multi-Band_Linear_Dipole_Antenna), [YouTube link](https://youtu.be/6-syNF-AnhI?si=azrHG1GjSxxGfrfw), [Bilibili link](https://www.bilibili.com/video/BV1ZV4y1M7NM/)
 
- <center><img src="Fig_research/dipole antenna fewest algorithm.png" width="800px" alt="图片描述"></center>
+ <center><img src="https://github.com/fheuihueh/XB_HKU/blob/master/Fig_research/dipole%20antenna%20fewest%20algorithm.png" width="800px" alt="图片描述"></center>
 
  	 
 
