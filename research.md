@@ -35,7 +35,7 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 5.	*For Smart Glasses, Smartwatch Strap*: Algorithm for fewest arms of any multi-band linear dipole antenna 
 An algorithm based on sharing arms to calculate the fewest arms required by any linear multi-band dipole antenna is proposed. The exemplified penta-band dipole antenna can cover 5 narrow discrete bands with only 2.5 pairs of arms. 50% of arms are reduced compared to traditional methods. Antennas designed by this algorithm can achieve multi-band radiation while conforming to ultra-narrow surfaces, such as smart glasses and smartwatch straps. [Researchgate link](https://www.researchgate.net/publication/357615453_Algorithm_for_Fewest_Arms_of_Multi-Band_Linear_Dipole_Antenna), [YouTube link](https://youtu.be/6-syNF-AnhI?si=azrHG1GjSxxGfrfw), [Bilibili link](https://www.bilibili.com/video/BV1ZV4y1M7NM/)
 
- <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master//Fig_research/dipole%20antenna%20fewest%20algorithm.png" width="800px" alt="图片描述"></center>
+ <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole%20antenna%20fewest%20algorithm.png" width="800px" alt="图片描述"></center><br />
 
  ![](https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png)
 
@@ -45,5 +45,7 @@ An algorithm based on sharing arms to calculate the fewest arms required by any 
 Quasi-isotropic antennas are essential for mobile smart devices in massive IoT of 6G, such as smart glasses and UAVs. However, at most two discrete frequency bands can be realized until now. It is because of the substantially increased structural complexity with the increased number of frequency bands. Since dual-band is much far from the massive IoT requirement, we investigate the enhanced multi-band ( > 2) quasi-isotropic antennas. Quad-band and hexa-band quasi-isotropic antennas are proposed for the first time. [ArXiv link](https://arxiv.org/abs/2401.05383)
  
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna application.png" width="800px" alt="图片描述"></center>
+
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="400px" alt="图片描述"></center>
+
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="400px" alt="图片描述"></center>
