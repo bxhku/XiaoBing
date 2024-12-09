@@ -6,7 +6,6 @@ permalink: /Research/
 Feeding mechanism is proposed that can excite multi-order dual-degenerated loop modes, which almost doubles the excited modes of a common loop. Thus, it can easily cover the whole Sub-6 GHz band as a small antenna. 14 modes are excited simultaneously. [Researchgate link](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
  
 
-![](http://www.baidu.com/img/bdlogo.gif)  
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 ![](https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png)
 
