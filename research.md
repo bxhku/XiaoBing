@@ -31,8 +31,8 @@ This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded a
 Dipole antenna is the simplest type of antenna from the theoretical point of view. It has alternating odd and even modes. In classical antenna theory, only odd modes are excited. The even modes are difficult to be excited due to their very high input impedances. In this paper, both odd and even modes of the dipole antenna are excited simultaneously by a single port with a novel feeding structure. Thus, all the first six modes of a common dipole are excited, among which five modes are utilized for IoT applications. The antenna can cover ISM bands of 868 MHz and 2450 MHz, GNSS band of 1575 MHz, and 5G bands of 3500 MHz and 4900 MHz. This research could broaden the application of this classic antenna. [Researchgate](https://www.researchgate.net/publication/354621727_Dipole_Antenna_with_Both_Odd_and_Even_Modes_Excited_and_Tuned), [YouTube](https://youtu.be/wILYaDRz79Y?si=ujPv6EjPBc2FepGk), [Bilibili](https://www.bilibili.com/video/BV1NB4y1Q7WA/)
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/odd even mode dipole.png" width="800px" alt="图片描述"></center>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wILYaDRz79Y&ab/0.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab)
+<br />
+<center>[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wILYaDRz79Y&ab/1.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab)</center>
 
 <br />
 **V.** 	*For Smart Glasses, Smartwatch Strap*: **Algorithm for fewest arms of any multi-band linear dipole antenna**
