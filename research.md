@@ -38,6 +38,8 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wILYaDRz79Y&ab/hqdefault.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab)
 
+[![Dipole Antenna With Both Odd and Even Modes Excited and Tuned](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741179/video_to_markdown/images/youtube--wILYaDRz79Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab "Dipole Antenna With Both Odd and Even Modes Excited and Tuned")
+
 
 <br />
 **V.** 	*For Smart Glasses, Smartwatch Strap*: **Algorithm for fewest arms of any multi-band linear dipole antenna**
