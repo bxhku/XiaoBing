@@ -13,8 +13,8 @@ Feeding mechanism is proposed that can excite multi-order dual-degenerated loop 
 2.	For Smartwatch/Smartphone: Unmodified present display screen module designed as antennas of mobile smart devices 
 The unmodified present commercial smartwatch screen is designed as part of the antenna. The fundamental structure of the smartwatch (including the full screen and the system PCB) is analyzed as a whole and modified as the radiator for a multi-band antenna. This method helps to improve the performance of smartwatch antennas. This method could design very small-size smartwatch antennas, add more frequency bands easily, radiate omni-directionally, and fit to the structures of present smartwatches. [Researchgate link](https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications)
 
-<img src="full screen smartwatch antenna schematic.png" width="200px" align="middle" alt="图片描述">
-<img src="full screen smartwatch antenna Table.png" width="200px" align="middle" alt="图片描述">
+<img src="full screen smartwatch antenna schematic.png" align="middle" alt="图片描述">
+<img src="full screen smartwatch antenna Table.png" align="middle" alt="图片描述">
 
 
    
