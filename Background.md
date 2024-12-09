@@ -2,7 +2,7 @@
 permalink: /Background/
 ---
 
-<img src="images/a/photoo.jpg" width="200px" align="right" alt="图片描述">
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/images/a/photoo.jpg" width="200px" align="right" alt="图片描述">
 
 <br /> 
 
