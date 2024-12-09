@@ -21,44 +21,34 @@ Broadband antenna, Small antenna, Smart glasses antenna, Smartwatch antenna, Cha
 
 - **Ph.D., Electronic Engineering**
   
-  - The University of Hong Kong, Hong Kong, China
-    
-    September 2016 – December 2021
+  - The University of Hong Kong, Hong Kong, China (Sep. 2016 – Dec. 2021)
 
 - **M.S., Radio Physics**
   
-  - University of Electronic Science and Technology of China, Chengdu, China
-    
-    September 2009 – June 2012
+  - University of Electronic Science and Technology of China, Chengdu, China (Sep. 2009 – Jun. 2012)
 
 - **B.S., Applied Physics**
   
-  - Anhui University, Hefei, China
-    
-    September 2005 – July 2009
+  - Anhui University, Hefei, China (Sep. 2005 – Jul. 2009)
 
 ## Academic Career
 
 - **Assistant Research Fellow**
   
-  - Information and Communication Technology Centre, City University of Hong Kong Shenzhen Research Institute, Shenzhen, China
+  - Information and Communication Technology Centre, City University of Hong Kong Shenzhen Research Institute, Shenzhen, China  (Oct. 2023 – Present)
     
-    October 2023 – Present
 
 - **Postdoctoral Fellow**
   
-  - State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong Kong (CityU), Hong Kong
+  - State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong Kong (CityU), Hong Kong (Oct. 2024 – Present)
     
-    October 2024 – Present
 
 - **Postdoc**
   
-  - State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong Kong (CityU), Hong Kong
+  - State Key Laboratory of Terahertz and Millimeter Waves, City University of Hong Kong (CityU), Hong Kong (Oct. 2021 – Sep. 2024)
+
+
     
-    October 2021 – September 2024
-
-
-
 
 
 
