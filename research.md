@@ -50,13 +50,14 @@ An algorithm based on sharing arms to calculate the fewest arms required by any 
 **VI.** 	*For Smart Glasses/UAV/Smartwatch Strap*: **Enhanced Multi-band Quasi-isotropic Antenna for Massive IoT of 6G**<br />
 <br />
 Quasi-isotropic antennas are essential for mobile smart devices in massive IoT of 6G, such as smart glasses and UAVs. However, at most two discrete frequency bands can be realized until now. It is because of the substantially increased structural complexity with the increased number of frequency bands. Since dual-band is much far from the massive IoT requirement, we investigate the enhanced multi-band ( > 2) quasi-isotropic antennas. Quad-band and hexa-band quasi-isotropic antennas are proposed for the first time. [ArXiv](https://arxiv.org/abs/2401.05383)
+
+ <br />
  
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna application.png" width="800px" alt="图片描述"></center>
-
-<br /><br />
-
-<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="400px" alt="图片描述"></center>
+<br /> 
+ 
+<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="400px" alt="图片描述"><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="400px" alt="图片描述"></center>
 
 <br />
 
-<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="400px" alt="图片描述"></center>
+
