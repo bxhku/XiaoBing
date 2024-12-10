@@ -44,9 +44,11 @@ An algorithm based on sharing arms to calculate the fewest arms required by any 
 
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png" width="800px" alt="图片描述"></center>
+<br />
 
-[![Algorithm for fewest arms of multi-band linear dipole antenna](https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/fewest algorithm youtube cover.jpeg)](https://youtu.be/6-syNF-AnhI?si=0Qesq3A4K4fvN1wo&t=500 "Algorithm for fewest arms of multi-band linear dipole antenna")
-
+<div align="center">
+[![Algorithm for fewest arms of multi-band linear dipole antenna](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741881/video_to_markdown/images/youtube--6-syNF-AnhI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/6-syNF-AnhI?si=0Qesq3A4K4fvN1wo&t=500 "Algorithm for fewest arms of multi-band linear dipole antenna")
+</div>
  
 <br />
 **VI.** 	*For Smart Glasses/UAV/Smartwatch Strap*: **Enhanced Multi-band Quasi-isotropic Antenna for Massive IoT of 6G**<br />
