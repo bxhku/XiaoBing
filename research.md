@@ -56,7 +56,7 @@ Quasi-isotropic antennas are essential for mobile smart devices in massive IoT o
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna application.png" width="800px" alt="图片描述"></center>
 <br /> 
  
-<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="400px" alt="图片描述"><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="400px" alt="图片描述"></center>
+<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="400px" alt="图片描述"></center>
 
 <br />
 
