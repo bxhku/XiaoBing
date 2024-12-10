@@ -34,7 +34,7 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 <br />
 
 
-[![Dipole Antenna With Both Odd and Even Modes Excited and Tuned](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741179/video_to_markdown/images/youtube--wILYaDRz79Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab "Dipole Antenna With Both Odd and Even Modes Excited and Tuned")
+<center>[![Dipole Antenna With Both Odd and Even Modes Excited and Tuned](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741179/video_to_markdown/images/youtube--wILYaDRz79Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab "Dipole Antenna With Both Odd and Even Modes Excited and Tuned")</center>
 
 
 <br />
