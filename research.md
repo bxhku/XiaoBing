@@ -3,7 +3,11 @@ permalink: /Research/
 ---
 
 **I. Ultra-Broadband Loop Antenna by multi-order dual-degenerated modes** (For UAV/Smartwatch) <br /><br />
-Novel feeding method that excites and detunes dual-degenerate modes for each order of a loop antenna, almost doubling the excited modes. It covers 0.73–7.10 GHz (163%), several times that of all present loop antennas. Further, we demonstrated its size-compressing method by an even smaller smartwatch loop antenna, achieving a bandwidth of 1.74–8.87 GHz (134%), several times of all present smartwatch antennas. [Researchgate](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
+Novel feeding method that excites and detunes dual-degenerate modes for each order of a loop antenna, almost doubling the excited modes. It covers 0.73–7.10 GHz (163%), several times that of all present loop antennas. Further, we demonstrated its size-compressing method by an even smaller smartwatch loop antenna, achieving a bandwidth of 1.74–8.87 GHz (134%), several times of all present smartwatch antennas. 
+
+ <br />
+
+[Researchgate](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
 
  <br />
 
@@ -32,12 +36,15 @@ The unmodified present commercial smartwatch screen is designed as part of the a
 <br />
 
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px"></center>
+
 <br />
+
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna Table.png" width="1000px" alt="图片描述"></center>
 
    
 <br />
-**III.  Dual-port penta-band linear antenna for multi-purpose smart glasses** (For Smart Glasses)<br />
+**III.  Dual-port penta-band linear antenna for multi-purpose smart glasses** (For Smart Glasses)
+<br />
 <br />
 This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded and capacitive coupler element (CCE) ports are assigned in the middle. Thus, all the first several characteristic modes of this linear dipole antenna could be excited simultaneously. The antenna covers four ISM bands, including 433 MHz, 915 MHz, 2450 MHz, and 5800 MHz for IoT applications and GPS L1 band (1575 MHz) for outdoor navigation. [Researchgate](https://www.researchgate.net/publication/342791148_Penta-band_Dual-fed_Smart_Glasses_IoT_Antenna)
  	 
@@ -66,7 +73,8 @@ An algorithm based on sharing arms to calculate the fewest arms required by any 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Algorithm for fewest arms of multi-band linear dipole antenna](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741881/video_to_markdown/images/youtube--6-syNF-AnhI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/6-syNF-AnhI?si=0Qesq3A4K4fvN1wo&t=500 "Algorithm for fewest arms of multi-band linear dipole antenna")
  
 <br />
-**VI.  Enhanced Multi-band Quasi-isotropic Antenna for Massive IoT of 6G** (For Smart Glasses/UAV/Smartwatch Strap)<br />
+**VI.  Enhanced Multi-band Quasi-isotropic Antenna for Massive IoT of 6G** (For Smart Glasses/UAV/Smartwatch Strap)
+<br />
 <br />
 Quasi-isotropic antennas are essential for mobile smart devices in massive IoT of 6G, such as smart glasses and UAVs. However, at most two discrete frequency bands can be realized until now. It is because of the substantially increased structural complexity with the increased number of frequency bands. Since dual-band is much far from the massive IoT requirement, we investigate the enhanced multi-band ( > 2) quasi-isotropic antennas. Quad-band and hexa-band quasi-isotropic antennas are proposed for the first time. [ArXiv](https://arxiv.org/abs/2401.05383)
 
