@@ -10,11 +10,10 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 [Researchgate](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
 <br />
 
-   <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_antenna3.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular%20loop%20antenna%20efficiency%20gain.png" width="400px" alt="图片描述"><center>
-|         |  -----------------------------------------------------------------------------------------------------  |         |
-|:-------:|:---------:|:-------:|
+<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_antenna3.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular%20loop%20antenna%20efficiency%20gain.png" width="400px" alt="图片描述"><center>
+
 <center>----------------------------------------------------------------------------------------------------- <center>
-   <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20loop%20antenna%20S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smartwatch_loop_antenna_efficiency_gain1.png" width="400px" alt="图片描述"></center>
+<center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20loop%20antenna%20S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smartwatch_loop_antenna_efficiency_gain1.png" width="400px" alt="图片描述"></center>
 <br />
 <br />
       
@@ -23,7 +22,7 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 <br />
 The unmodified present commercial smartwatch screen is designed as part of the antenna. The fundamental structure of the smartwatch (including the full screen and the system PCB) is analyzed as a whole and modified as the radiator for a multi-band antenna. This method helps to improve the performance of smartwatch antennas. This method could design very small-size smartwatch antennas, add more frequency bands easily, radiate omni-directionally, and fit to the structures of present smartwatches. 
 <br />
-[Researchgate](<https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications>)
+[Researchgate](https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications)
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px"></center>
 <br />
