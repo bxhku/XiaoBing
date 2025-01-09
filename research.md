@@ -14,7 +14,8 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
    <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20loop%20antenna%20S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smartwatch_loop_antenna_efficiency_gain1.png" width="400px" alt="图片描述"></center>
 <br />
 <br />
-**II. Unmodified present display screen module designed as antennas of mobile smart devices** (For Smartwatch/Smartphone)  
+      
+**II. Unmodified present display screen module designed as antennas of mobile smart devices (For Smartwatch/Smartphone)** 
 <br />
 <br />
 The unmodified present commercial smartwatch screen is designed as part of the antenna. The fundamental structure of the smartwatch (including the full screen and the system PCB) is analyzed as a whole and modified as the radiator for a multi-band antenna. This method helps to improve the performance of smartwatch antennas. This method could design very small-size smartwatch antennas, add more frequency bands easily, radiate omni-directionally, and fit to the structures of present smartwatches. 
@@ -26,7 +27,8 @@ The unmodified present commercial smartwatch screen is designed as part of the a
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna Table.png" width="1000px" alt="图片描述"></center>
 <br />
 <br />
-**III.  Dual-port penta-band linear antenna for multi-purpose smart glasses** (For Smart Glasses)
+
+**III.  Dual-port penta-band linear antenna for multi-purpose smart glasses (For Smart Glasses)**
 <br />
 This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded and capacitive coupler element (CCE) ports are assigned in the middle. Thus, all the first several characteristic modes of this linear dipole antenna could be excited simultaneously. The antenna covers four ISM bands, including 433 MHz, 915 MHz, 2450 MHz, and 5800 MHz for IoT applications and GPS L1 band (1575 MHz) for outdoor navigation. 
 <br />
@@ -49,7 +51,8 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 &emsp;&emsp;&emsp;&emsp;[![Dipole Antenna With Both Odd and Even Modes Excited and Tuned](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741179/video_to_markdown/images/youtube--wILYaDRz79Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab "Dipole Antenna With Both Odd and Even Modes Excited and Tuned")
 <br />
 <br />
-**V.  Algorithm for fewest arms of any multi-band linear dipole antenna** (For Smart Glasses, Smartwatch Strap)
+
+**V.  Algorithm for fewest arms of any multi-band linear dipole antenna (For Smart Glasses, Smartwatch Strap)**
 <br /><br />
 An algorithm based on sharing arms to calculate the fewest arms required by any linear multi-band dipole antenna is proposed. The exemplified penta-band dipole antenna can cover 5 narrow discrete bands with only 2.5 pairs of arms. 50% of arms are reduced compared to traditional methods. Antennas designed by this algorithm can achieve multi-band radiation while conforming to ultra-narrow surfaces, such as smart glasses and smartwatch straps. [Researchgate](<https://www.researchgate.net/publication/357615453_Algorithm_for_Fewest_Arms_of_Multi-Band_Linear_Dipole_Antenna>), [YouTube](https://youtu.be/6-syNF-AnhI?si=azrHG1GjSxxGfrfw), [Bilibili](https://www.bilibili.com/video/BV1ZV4y1M7NM/)
 <br />
@@ -58,6 +61,7 @@ An algorithm based on sharing arms to calculate the fewest arms required by any 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Algorithm for fewest arms of multi-band linear dipole antenna](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741881/video_to_markdown/images/youtube--6-syNF-AnhI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/6-syNF-AnhI?si=0Qesq3A4K4fvN1wo&t=500 "Algorithm for fewest arms of multi-band linear dipole antenna")
 <br />
 <br />
+
 **VI.  Enhanced Multi-band Quasi-isotropic Antenna for Massive IoT of 6G (For Smart Glasses/UAV/Smartwatch Strap)**
 <br />
 <br />
