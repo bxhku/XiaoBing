@@ -5,7 +5,7 @@ permalink: /Research/
 **I. Ultra-Broadband Loop Antenna by multi-order dual-degenerated modes** (For UAV/Smartwatch) <br /><br />
 Novel feeding method that excites and detunes dual-degenerate modes for each order of a loop antenna, almost doubling the excited modes. It covers 0.73–7.10 GHz (163%), several times that of all present loop antennas. Further, we demonstrated its size-compressing method by an even smaller smartwatch loop antenna, achieving a bandwidth of 1.74–8.87 GHz (134%), several times of all present smartwatch antennas. 
  <br />
-[Researchgate](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
+[Researchgate](<https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes>)
 
  <br />
 
@@ -26,7 +26,7 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 <br />
 The unmodified present commercial smartwatch screen is designed as part of the antenna. The fundamental structure of the smartwatch (including the full screen and the system PCB) is analyzed as a whole and modified as the radiator for a multi-band antenna. This method helps to improve the performance of smartwatch antennas. This method could design very small-size smartwatch antennas, add more frequency bands easily, radiate omni-directionally, and fit to the structures of present smartwatches. 
 <br />
-[Researchgate](https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications)
+[Researchgate](<https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications>)
 <br />
 
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px"></center>
@@ -51,7 +51,7 @@ This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded a
 
 **IV.  Dipole Antenna with Both Odd and Even Modes Excited and Tuned** (For Smart Glasses, Smartwatch Strap)
 <br /><br />
-Dipole antenna is the simplest type of antenna from the theoretical point of view. It has alternating odd and even modes. In classical antenna theory, only odd modes are excited. The even modes are difficult to be excited due to their very high input impedances. In this paper, both odd and even modes of the dipole antenna are excited simultaneously by a single port with a novel feeding structure. Thus, all the first six modes of a common dipole are excited, among which five modes are utilized for IoT applications. The antenna can cover ISM bands of 868 MHz and 2450 MHz, GNSS band of 1575 MHz, and 5G bands of 3500 MHz and 4900 MHz. This research could broaden the application of this classic antenna. [Researchgate](https://www.researchgate.net/publication/354621727_Dipole_Antenna_with_Both_Odd_and_Even_Modes_Excited_and_Tuned), [YouTube](https://youtu.be/wILYaDRz79Y?si=ujPv6EjPBc2FepGk), [Bilibili](https://www.bilibili.com/video/BV1NB4y1Q7WA/)
+Dipole antenna is the simplest type of antenna from the theoretical point of view. It has alternating odd and even modes. In classical antenna theory, only odd modes are excited. The even modes are difficult to be excited due to their very high input impedances. In this paper, both odd and even modes of the dipole antenna are excited simultaneously by a single port with a novel feeding structure. Thus, all the first six modes of a common dipole are excited, among which five modes are utilized for IoT applications. The antenna can cover ISM bands of 868 MHz and 2450 MHz, GNSS band of 1575 MHz, and 5G bands of 3500 MHz and 4900 MHz. This research could broaden the application of this classic antenna. [Researchgate](<https://www.researchgate.net/publication/354621727_Dipole_Antenna_with_Both_Odd_and_Even_Modes_Excited_and_Tuned>), [YouTube](https://youtu.be/wILYaDRz79Y?si=ujPv6EjPBc2FepGk), [Bilibili](https://www.bilibili.com/video/BV1NB4y1Q7WA/)
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/odd even mode dipole.png" width="1000px" alt="图片描述"></center>
 <br />
