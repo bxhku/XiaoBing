@@ -3,7 +3,8 @@ permalink: /Research/
 ---
 
 **I. Ultra-Broadband Loop Antenna by multi-order dual-degenerated modes (For UAV/Smartwatch)**
-<br /><br />
+<br />
+<br />
 Novel feeding method that excites and detunes dual-degenerate modes for each order of a loop antenna, almost doubling the excited modes. It covers 0.73–7.10 GHz (163%), several times that of all present loop antennas. Further, we demonstrated its size-compressing method by an even smaller smartwatch loop antenna, achieving a bandwidth of 1.74–8.87 GHz (134%), several times of all present smartwatch antennas. 
 <br />
 [Researchgate](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
@@ -15,7 +16,7 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 <br />
 <br />
       
-**II. Unmodified present display screen module designed as antennas of mobile smart devices (For Smartwatch/Smartphone)** 
+**II. Unmodified present display screen module designed as antennas of mobile smart devices (For Smartwatch/Smartphone)**
 <br />
 <br />
 The unmodified present commercial smartwatch screen is designed as part of the antenna. The fundamental structure of the smartwatch (including the full screen and the system PCB) is analyzed as a whole and modified as the radiator for a multi-band antenna. This method helps to improve the performance of smartwatch antennas. This method could design very small-size smartwatch antennas, add more frequency bands easily, radiate omni-directionally, and fit to the structures of present smartwatches. 
@@ -37,13 +38,15 @@ This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded a
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smart glasses.png" width="800px" alt="图片描述"></center>
 <br />
 <br />
-<center>**IV.  Dipole Antenna with Both Odd and Even Modes Excited and Tuned** (For Smart Glasses, Smartwatch Strap)<center>
+
+**IV.  Dipole Antenna with Both Odd and Even Modes Excited and Tuned (For Smart Glasses, Smartwatch Strap)**
 <br />
 Dipole antenna is the simplest type of antenna from the theoretical point of view. It has alternating odd and even modes. In classical antenna theory, only odd modes are excited. The even modes are difficult to be excited due to their very high input impedances. In this paper, both odd and even modes of the dipole antenna are excited simultaneously by a single port with a novel feeding structure. Thus, all the first six modes of a common dipole are excited, among which five modes are utilized for IoT applications. The antenna can cover ISM bands of 868 MHz and 2450 MHz, GNSS band of 1575 MHz, and 5G bands of 3500 MHz and 4900 MHz. This research could broaden the application of this classic antenna.
 <br />
 
 **IV.  Dipole Antenna with Both Odd and Even Modes Excited and Tuned (For Smart Glasses, Smartwatch Strap)**
-<br /><br />
+<br />
+<br />
 Dipole antenna is the simplest type of antenna from the theoretical point of view. It has alternating odd and even modes. In classical antenna theory, only odd modes are excited. The even modes are difficult to be excited due to their very high input impedances. In this paper, both odd and even modes of the dipole antenna are excited simultaneously by a single port with a novel feeding structure. Thus, all the first six modes of a common dipole are excited, among which five modes are utilized for IoT applications. The antenna can cover ISM bands of 868 MHz and 2450 MHz, GNSS band of 1575 MHz, and 5G bands of 3500 MHz and 4900 MHz. This research could broaden the application of this classic antenna. [Researchgate](<https://www.researchgate.net/publication/354621727_Dipole_Antenna_with_Both_Odd_and_Even_Modes_Excited_and_Tuned>), [YouTube](https://youtu.be/wILYaDRz79Y?si=ujPv6EjPBc2FepGk), [Bilibili](https://www.bilibili.com/video/BV1NB4y1Q7WA/)
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/odd even mode dipole.png" width="1000px" alt="图片描述"></center>
@@ -53,7 +56,8 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 <br />
 
 **V.  Algorithm for fewest arms of any multi-band linear dipole antenna (For Smart Glasses, Smartwatch Strap)**
-<br /><br />
+<br />
+<br />
 An algorithm based on sharing arms to calculate the fewest arms required by any linear multi-band dipole antenna is proposed. The exemplified penta-band dipole antenna can cover 5 narrow discrete bands with only 2.5 pairs of arms. 50% of arms are reduced compared to traditional methods. Antennas designed by this algorithm can achieve multi-band radiation while conforming to ultra-narrow surfaces, such as smart glasses and smartwatch straps. [Researchgate](<https://www.researchgate.net/publication/357615453_Algorithm_for_Fewest_Arms_of_Multi-Band_Linear_Dipole_Antenna>), [YouTube](https://youtu.be/6-syNF-AnhI?si=azrHG1GjSxxGfrfw), [Bilibili](https://www.bilibili.com/video/BV1ZV4y1M7NM/)
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png" width="800px" alt="图片描述"></center>
@@ -73,5 +77,3 @@ Quasi-isotropic antennas are essential for mobile smart devices in massive IoT o
 <br /> 
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="500px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="500px" alt="图片描述"></center>
 <br />
-
-
