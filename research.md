@@ -11,7 +11,9 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 <br />
 
    <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_antenna3.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular%20loop%20antenna%20efficiency%20gain.png" width="400px" alt="图片描述"><center>
-   <center>----------------------------------------------------------------------------------------------------- <center>
+|         |  -----------------------------------------------------------------------------------------------------  |         |
+|:-------:|:---------:|:-------:|
+<center>----------------------------------------------------------------------------------------------------- <center>
    <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20loop%20antenna%20S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smartwatch_loop_antenna_efficiency_gain1.png" width="400px" alt="图片描述"></center>
 <br />
 <br />
