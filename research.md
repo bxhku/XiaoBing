@@ -4,9 +4,7 @@ permalink: /Research/
 
 **I. Ultra-Broadband Loop Antenna by multi-order dual-degenerated modes** (For UAV/Smartwatch) <br /><br />
 Novel feeding method that excites and detunes dual-degenerate modes for each order of a loop antenna, almost doubling the excited modes. It covers 0.73–7.10 GHz (163%), several times that of all present loop antennas. Further, we demonstrated its size-compressing method by an even smaller smartwatch loop antenna, achieving a bandwidth of 1.74–8.87 GHz (134%), several times of all present smartwatch antennas. 
-
  <br />
-
 [Researchgate](https://www.researchgate.net/publication/382275488_Whole-Sub-6_GHz_Loop_Antenna_by_Multi-Order_Dual-Degenerated_Modes)
 
  <br />
@@ -26,13 +24,9 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 **II. Unmodified present display screen module designed as antennas of mobile smart devices** (For Smartwatch/Smartphone)  
 <br />
 <br />
-
 The unmodified present commercial smartwatch screen is designed as part of the antenna. The fundamental structure of the smartwatch (including the full screen and the system PCB) is analyzed as a whole and modified as the radiator for a multi-band antenna. This method helps to improve the performance of smartwatch antennas. This method could design very small-size smartwatch antennas, add more frequency bands easily, radiate omni-directionally, and fit to the structures of present smartwatches. 
-
 <br />
-
 [Researchgate](https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications)
-
 <br />
 
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px"></center>
@@ -46,8 +40,11 @@ The unmodified present commercial smartwatch screen is designed as part of the a
 **III.  Dual-port penta-band linear antenna for multi-purpose smart glasses** (For Smart Glasses)
 <br />
 <br />
-This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded and capacitive coupler element (CCE) ports are assigned in the middle. Thus, all the first several characteristic modes of this linear dipole antenna could be excited simultaneously. The antenna covers four ISM bands, including 433 MHz, 915 MHz, 2450 MHz, and 5800 MHz for IoT applications and GPS L1 band (1575 MHz) for outdoor navigation. [Researchgate](https://www.researchgate.net/publication/342791148_Penta-band_Dual-fed_Smart_Glasses_IoT_Antenna)
- 	 
+This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded and capacitive coupler element (CCE) ports are assigned in the middle. Thus, all the first several characteristic modes of this linear dipole antenna could be excited simultaneously. The antenna covers four ISM bands, including 433 MHz, 915 MHz, 2450 MHz, and 5800 MHz for IoT applications and GPS L1 band (1575 MHz) for outdoor navigation. 
+<br />
+[Researchgate](https://www.researchgate.net/publication/342791148_Penta-band_Dual-fed_Smart_Glasses_IoT_Antenna)
+<br />
+
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smart glasses.png" width="800px" alt="图片描述"></center>
  
 <br />
