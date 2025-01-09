@@ -33,7 +33,7 @@ The unmodified present commercial smartwatch screen is designed as part of the a
 <br />
 This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded and capacitive coupler element (CCE) ports are assigned in the middle. Thus, all the first several characteristic modes of this linear dipole antenna could be excited simultaneously. The antenna covers four ISM bands, including 433 MHz, 915 MHz, 2450 MHz, and 5800 MHz for IoT applications and GPS L1 band (1575 MHz) for outdoor navigation. 
 <br />
-[Researchgate](<https://www.researchgate.net/publication/342791148_Penta-band_Dual-fed_Smart_Glasses_IoT_Antenna>)
+[Researchgate](https://www.researchgate.net/publication/342791148_Penta-band_Dual-fed_Smart_Glasses_IoT_Antenna)
 <br />
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smart glasses.png" width="800px" alt="图片描述"></center>
 <br />
