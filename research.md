@@ -13,7 +13,7 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 <img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_antenna3.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular_loop_S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/circular%20loop%20antenna%20efficiency%20gain.png" width="400px" alt="图片描述">
 
 ----------------------------------------------------------------------------------------------------- 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20loop%20antenna%20S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smartwatch_loop_antenna_efficiency_gain1.png" width="400px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20loop%20antenna%20S11.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smartwatch_loop_antenna_efficiency_gain1.png" width="400px" alt="图片描述">
 
 
       
@@ -24,9 +24,9 @@ The unmodified present commercial smartwatch screen is designed as part of the a
 
 [Researchgate](https://www.researchgate.net/publication/351795530_Design_of_Small_Multi-band_Full-screen_Smartwatch_Antenna_for_IoT_applications)
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px">
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna Table.png" width="1000px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna Table.png" width="1000px" alt="图片描述">
 
 
 
@@ -36,7 +36,7 @@ This antenna utilizes the smart glasses’ metal frame as a radiator. Embedded a
 
 [Researchgate](https://www.researchgate.net/publication/342791148_Penta-band_Dual-fed_Smart_Glasses_IoT_Antenna)
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smart glasses.png" width="800px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/smart glasses.png" width="800px" alt="图片描述">
 
 
 **IV.  Dipole Antenna with Both Odd and Even Modes Excited and Tuned (For Smart Glasses, Smartwatch Strap)**
@@ -50,7 +50,7 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 Dipole antenna is the simplest type of antenna from the theoretical point of view. It has alternating odd and even modes. In classical antenna theory, only odd modes are excited. The even modes are difficult to be excited due to their very high input impedances. In this paper, both odd and even modes of the dipole antenna are excited simultaneously by a single port with a novel feeding structure. Thus, all the first six modes of a common dipole are excited, among which five modes are utilized for IoT applications. The antenna can cover ISM bands of 868 MHz and 2450 MHz, GNSS band of 1575 MHz, and 5G bands of 3500 MHz and 4900 MHz. This research could broaden the application of this classic antenna. 
 [Researchgate](https://www.researchgate.net/publication/354621727_Dipole_Antenna_with_Both_Odd_and_Even_Modes_Excited_and_Tuned), [YouTube](https://youtu.be/wILYaDRz79Y?si=ujPv6EjPBc2FepGk), [Bilibili](https://www.bilibili.com/video/BV1NB4y1Q7WA/)
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/odd even mode dipole.png" width="1000px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/odd even mode dipole.png" width="1000px" alt="图片描述">
 
 &emsp;&emsp;&emsp;&emsp;[![Dipole Antenna With Both Odd and Even Modes Excited and Tuned](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741179/video_to_markdown/images/youtube--wILYaDRz79Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wILYaDRz79Y&ab "Dipole Antenna With Both Odd and Even Modes Excited and Tuned")
 
@@ -60,7 +60,7 @@ Dipole antenna is the simplest type of antenna from the theoretical point of vie
 An algorithm based on sharing arms to calculate the fewest arms required by any linear multi-band dipole antenna is proposed. The exemplified penta-band dipole antenna can cover 5 narrow discrete bands with only 2.5 pairs of arms. 50% of arms are reduced compared to traditional methods. Antennas designed by this algorithm can achieve multi-band radiation while conforming to ultra-narrow surfaces, such as smart glasses and smartwatch straps. 
 [Researchgate](https://www.researchgate.net/publication/357615453_Algorithm_for_Fewest_Arms_of_Multi-Band_Linear_Dipole_Antenna), [YouTube](https://youtu.be/6-syNF-AnhI?si=azrHG1GjSxxGfrfw), [Bilibili](https://www.bilibili.com/video/BV1ZV4y1M7NM/)
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png" width="800px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/dipole_antenna_fewest_algorithm.png" width="800px" alt="图片描述">
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Algorithm for fewest arms of multi-band linear dipole antenna](https://res.cloudinary.com/marcomontalbano/image/upload/v1733741881/video_to_markdown/images/youtube--6-syNF-AnhI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/6-syNF-AnhI?si=0Qesq3A4K4fvN1wo&t=500 "Algorithm for fewest arms of multi-band linear dipole antenna")
 
@@ -71,7 +71,7 @@ Quasi-isotropic antennas are essential for mobile smart devices in massive IoT o
 
 [ArXiv](https://arxiv.org/abs/2401.05383)
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna application.png" width="800px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna application.png" width="800px" alt="图片描述">
  
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="500px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="500px" alt="图片描述"></center>
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna schematic.png" width="500px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/quad-band isotropic antenna S11.png" width="500px" alt="图片描述">
 
