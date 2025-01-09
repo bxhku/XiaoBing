@@ -32,11 +32,10 @@ The unmodified present commercial smartwatch screen is designed as part of the a
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna schematic.png" width="500px"></center>
 
 <br />
-
 <center><img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/full screen smartwatch antenna Table.png" width="1000px" alt="图片描述"></center>
-
-   
 <br />
+   
+
 **III.  Dual-port penta-band linear antenna for multi-purpose smart glasses** (For Smart Glasses)
 <br />
 <br />
