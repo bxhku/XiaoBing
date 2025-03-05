@@ -19,15 +19,15 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 &emsp;&emsp;&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/loop_watch_compare_table.png" width="700px" alt="图片描述">
 
 
-**II. Design of ultra-broadband chassis antenna from view of multi-mode dipole  (For Smartwatch/ Smart Glasses)**
+**II. Ultra-broadband Chassis/Monopole Hybrid Antenna for Low-Profile Mobile Smart Devices  (For Smartwatch/ Smart Glasses /UAV)**
 
 
 
-A very small-size amorphous capacitive coupling element (CCE) is adopted for ultra-broadband chassis antenna, assisting in smartwatch antennas and transparent antennas for smart glasses.
+An Ultra-broadband antenna is proposed to be integrated into smartwatch-size mobile devices. It exhibits  multi-mode chassis antenna characteristics in lower frequency and UWB monopole antenna characteristics in higher frequency. The antenna achieves a 144% bandwidth from 2.69–16.53 GHz, significantly higher than other chassis antennas. It has a 0.04λL antenna height, which differs from common monopole UWB antennas. The applications include smartwatches, smart glasses, mini UAV/UGV and others.
 
 
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/chassis_antenna.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/chassis_antenna_S11 efficiency1.png" width="600px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/chassis_antenna_compare_table.png" width="600px" alt="图片描述">
+<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/chassis_antenna.png" width="400px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/chassis_antenna_S11 efficiency1.png" width="600px" alt="图片描述">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/chassis_antenna_compare_table.png" width="600px" alt="图片描述">
 
 
       
