@@ -19,8 +19,7 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 &emsp;&emsp;&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/watch%20figure%20total.png" width="250px" alt="图片描述">&emsp;<img src="https://github.com/fheuihueh/XB_HKU/raw/master/Fig_research/loop_watch_compare_table.png" width="700px" alt="图片描述">
 
 
-**II. Ultra-broadband Chassis/Monopole Hybrid Antenna for Low-Profile Mobile Smart Devices  (For Smartwatch/ Smart Glasses /UAV)**
-
+**II. Corner-Fed Ultra-Broadband Multi-Mode Chassis Antenna (For Smartwatch/ Smart Glasses /UAV)**
 
 
 A Corner-Fed Ultra-Broadband Multi-Mode Chassis Antenna is proposed to be integrated into smartwatch-size mobile devices. It is also an investigation on 2D Dipole antenna.The antenna achieves a 144% bandwidth from 2.66–15.89 GHz, significantly higher than other chassis antennas. It has a 0.04λL antenna height, which differs from common monopole UWB antennas. The applications include smartwatches, smart glasses, mini UAV/UGV and others.
