@@ -23,7 +23,7 @@ Novel feeding method that excites and detunes dual-degenerate modes for each ord
 
 
 
-An Ultra-broadband antenna is proposed to be integrated into smartwatch-size mobile devices. It exhibits  multi-mode chassis antenna characteristics in lower frequency and UWB monopole antenna characteristics in higher frequency. The antenna achieves a 144% bandwidth from 2.69–16.53 GHz, significantly higher than other chassis antennas. It has a 0.04λL antenna height, which differs from common monopole UWB antennas. The applications include smartwatches, smart glasses, mini UAV/UGV and others.
+A Corner-Fed Ultra-Broadband Multi-Mode Chassis Antenna is proposed to be integrated into smartwatch-size mobile devices. It is also an investigation on 2D Dipole antenna.The antenna achieves a 144% bandwidth from 2.66–15.89 GHz, significantly higher than other chassis antennas. It has a 0.04λL antenna height, which differs from common monopole UWB antennas. The applications include smartwatches, smart glasses, mini UAV/UGV and others.
 
 
 
