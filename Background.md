@@ -31,7 +31,7 @@ Broadband antenna, Small antenna, Smart glasses antenna, Smartwatch antenna, Cha
 ## Academic Career
 
 - **Assistant Research Fellow**
-  - Information and Communication Technology Centre, City University of Hong Kong Shenzhen Research Institute, Shenzhen, China  (Oct 2023 – Present)
+  - Information and Communication Technology Centre, City University of Hong Kong Shenzhen Research Institute, Shenzhen, China  (Oct 2023 – Oct 2024)
     
 <br /> 
 - **Postdoctoral Fellow**
