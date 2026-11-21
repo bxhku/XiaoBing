@@ -11,7 +11,7 @@ permalink: /
 
 **City University of Hong Kong**<br />  
 
-**Email**: xiaobing[at]eee.hku.hk<br /> 
+**Email**: bing.xiao[at]connect.hku.hk<br /> 
    
 **Office**: Room 15-236 (State Key Laboratory), 15/F, Lau Ming Wai Academic Building, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong SAR<br />     
 <br /> 
