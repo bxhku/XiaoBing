@@ -2,14 +2,13 @@
 permalink: /Background/
 ---
 
-<img src="https://github.com/fheuihueh/XB_HKU/raw/master/images/a/photoo.jpg" width="280px" align="right" alt="图片描述">
 
 <br /> 
 
 
 ## Contact Information
 
-- **Email**: xiaobing[at]eee.hku.hk
+- **Email**: bing.xiao[at]connect.hku.hk
   
 - **Address**: Room 15-236 (State Key Laboratory), 15/F, Lau Ming Wai Academic Building, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong SAR
 
